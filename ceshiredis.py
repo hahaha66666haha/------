@@ -1,4 +1,5 @@
 #简单修改
+#简单修改2
 import redis
 
 # 方案1：连接本地Redis（需要先启动Redis服务器）
