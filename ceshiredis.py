@@ -3,6 +3,7 @@
 #简单修改gitee
 #简单修改gitee2
 #简单修改gitee3
+#简单修改gitee4
 import redis
 
 # 方案1：连接本地Redis（需要先启动Redis服务器）
