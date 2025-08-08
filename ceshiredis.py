@@ -1,5 +1,6 @@
 #简单修改
 #简单修改2
+#简单修改gitee
 import redis
 
 # 方案1：连接本地Redis（需要先启动Redis服务器）
